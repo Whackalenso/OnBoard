@@ -12,7 +12,7 @@ This will be the body of a saxophone MIDI controller. You would hook it up to a 
 
 <!-- How much is it going to cost? -->
 ### Cost
-It will cost around $35 including shipping. This doesn't include the other components that make up this project.
+It will cost around $50 including shipping.
 
 ### Design
 <!-- Tell us a little bit about your design process. What were some challenges? What helped? ***Totally optional*** -->
